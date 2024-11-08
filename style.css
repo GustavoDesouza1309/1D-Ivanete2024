@@ -1,13 +1,17 @@
 
 body{
-    color:whithe;
+    color:white;
     background: black;
 }
 
  .bio{
     color: white;
-    background-color: black;
+    background-color: rgb(8, 196, 124);
  }
-    h1{
+h1{
         text-align: center;
  }
+
+.img{ 
+    text-align: center;
+}
